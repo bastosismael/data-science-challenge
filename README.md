@@ -1,5 +1,5 @@
 # data-science-challenge
-Projeto desenvolvido na etapa de teste técnico do processo seletivo da Makasi. 
+Projeto desenvolvido na etapa de teste técnico do processo seletivo da Makasí. 
 
 
 Para a reproduçaõ do código presente no arquivos projeto_final.ipynb recomenda-se executar o comando 
